@@ -13,20 +13,6 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the 'Jira Clone' directory
-- Run the index.html file
-- ToDo App is ready to use!!
-
 <h3> ScreenShots </h3> 
 <img src="https://i.ibb.co/w60C6Tf/image.png">
 <br>
