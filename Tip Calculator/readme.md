@@ -13,20 +13,8 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/supzi-del/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Calculate tip.
 
 <h3> ScreenShot </h3>
-<img src = "https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Tip%20Calculator/snap.PNG" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/fdce2840-d4f9-42c9-907a-2e0f70892ed7)
+
 <br>
