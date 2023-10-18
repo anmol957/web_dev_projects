@@ -16,7 +16,8 @@
 
 
 <h3 align="center">DEFAULT VIEW</h3>
-![image](https://github.com/anmol957/web_dev_projects/assets/61040390/b8d2e383-9d7e-4280-8889-2730a6406a7e)
+
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/f2694843-af95-4793-9952-6ce317389a20)
 
 
 <h3 align="center">PREVIEW OF THE STOP BUTTON</h3>
