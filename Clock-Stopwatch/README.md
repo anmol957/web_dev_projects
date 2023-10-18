@@ -13,28 +13,12 @@
 
 <br>
 
-### How to use:
 
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start the stopwatch
-
-<br>
 
 <h3 align="center">DEFAULT VIEW</h3>
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/b8d2e383-9d7e-4280-8889-2730a6406a7e)
 
-![stopwatch3](https://user-images.githubusercontent.com/56999749/124381007-da1aba80-dcdd-11eb-8b0a-630090aa9ac8.JPG)
-
-<br>
 
 <h3 align="center">PREVIEW OF THE STOP BUTTON</h3>
 
-![stopwatch](https://user-images.githubusercontent.com/56999749/124381017-eb63c700-dcdd-11eb-9a40-182a13060c8e.JPG)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/42d5382d-f07d-4708-9d5f-268a38890e58)
