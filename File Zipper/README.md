@@ -17,8 +17,7 @@
 
 
 <h3> ScreenShot </h3> 
-<img width="960" alt="File_Zipper" src="WhatsApp%20Image%202021-07-20%20at%2022.04.38%20(1).jpeg">
-
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/5dc0bfe7-3a22-4d1d-84a9-869620316959)
 
 <br>
 
