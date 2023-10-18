@@ -10,20 +10,6 @@ BMI calculator can be used to calculate body mass index of people.
   * JavaScript
 
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start Calculating!!
---- 
 
 ## Screenshots 
 ![Screenshot (35)](https://user-images.githubusercontent.com/69195262/125057793-3d825f00-e0c7-11eb-8a87-a80ecf6603e1.png)
