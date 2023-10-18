@@ -13,20 +13,6 @@
 <br>
 
 
-### How to get the project on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Open Javascript Game folder
-- Open index.html with live server by right clicking on the mouse cursor
-
 ### Screenshots
 
 
