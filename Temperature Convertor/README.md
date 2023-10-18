@@ -12,19 +12,9 @@ This webpage converts temperatures from and to Celcius, Fahrenheit and Kelvin.
 
 - Git and GitHub installed in the machine in order to clone the repo.
 
-### How to Install:
-
-- Open terminal / CMD to access git commands.
-- Enter this command:
-  `https://github.com/joshi-kaushal/Web-dev-mini-projects.git`
-- switch to _temp-convertor_ branch and open the folder named _Temperature Convertor_
-- run `index.html` file
-
 ### Screenshots:
 
 Home Page -
-![Home Page](https://github.com/joshi-kaushal/Web-dev-mini-projects/blob/temp-convertor/Temperature%20Convertor/assets/home.png)
-Successful conversion -
-![Successful conversion](https://github.com/joshi-kaushal/Web-dev-mini-projects/blob/temp-convertor/Temperature%20Convertor/assets/cel-far.png)
-Same Units -
-![Same Units](https://github.com/joshi-kaushal/Web-dev-mini-projects/blob/temp-convertor/Temperature%20Convertor/assets/same-units.jpg)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/a5a4058f-17ad-4724-8b83-62e6387c1e49)
+
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/32020521-a515-4c06-a6a3-0a5fb76f1329)
