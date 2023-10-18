@@ -13,21 +13,7 @@
 <p> This project is helpful to students managing their classes, the student can schedule their batch and its timing here. Its easier for students to have all the classes at one place rather searching for which class to attend now. 🏫</p>
 
 
-#### Steps to Use:
----
-
-- Download or clone the repository
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-- Go to the directory
-- Run the index.html file
-- Schedule your new batch.
-- Add more and more batches.
-
 
 <h4> ScreenShots </h4>  
 
-![project-img](./classroom.png)
-
-### Happy Coding! 👩‍💻
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/73effaea-b704-4856-b975-ec7856792f86)
