@@ -13,21 +13,7 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Click Generate!
-
 <h3> Video Demo </h3>
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/8e0fd575-026e-4f97-92b1-ddd520a2a6f6)
 
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Random%20Password%20Generator/snap.PNG">
 <br>
