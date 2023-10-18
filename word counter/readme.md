@@ -13,18 +13,3 @@
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
-
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start counting Words!!
-![Capture](https://user-images.githubusercontent.com/60540365/125561215-d86dbe87-3de0-4cab-afa4-1a1a89c1aa58.JPG)
