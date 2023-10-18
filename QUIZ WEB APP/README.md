@@ -12,15 +12,6 @@ This is a basic HTML, CSS, JAVASCRIPT quiz app where user can answer the questio
 
 <br>
 
-
-### How to get the project on your local machine:
-
----
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
 - Go to the directory
 - Go to QUIZ WEB APP folder
 - Open the terminal and run 
