@@ -9,16 +9,6 @@ A user-friendly game to enhance user's memory.
 - CSS3
 - JavaScript
 
-# Set up required to run
-1. Clone the repository.
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-2. Move to project directory.
-
-3. Open mainGame.html with Chrome or any browser.
-
-4. Start Playing.
 
 # Screenshots
 - When a player turns over two cards that match, those cards get fixed.
