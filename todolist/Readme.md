@@ -19,29 +19,3 @@
 ---
 * Download [Node Js and npm(Node package manager)](https://nodejs.org/en/) (when you install Node, npm also gets installed by default)
 <br/>
-
-* Clone the repository by running command
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-in your git bash.
-<br/>
-
-* Run command `cd todolist`.
-<br/>
-
-* Run this command to install all dependencies for the project.
-```npm install
-
-```
-*Run this command to run the file.
-```
-node app.js
-```
-* Open http://localhost:3000/ on your browser.
-<br/>
-
-<h3>ScreenShots</h3>
-<br>
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/todolist/images/main.PNG"/>
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/todolist/images/work.PNG"/>
