@@ -12,20 +12,6 @@ This is a HTML, CSS, JAVASCRIPT movie website project where users can come and w
 <br>
 
 
-### How to get the project on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Open movie-website folder
-- Open index.html with live server 
-
 ### Things used in the project
 
 Built with Vanilla JavaScript. Below is a list of the methods and properties use
