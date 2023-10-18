@@ -13,20 +13,6 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Just relax!!
-
 <h3> ScreenShots </h3> 
 
 <img width="750" alt="breathe-in" src="https://user-images.githubusercontent.com/63009472/126199968-7acb328d-4d15-4134-bb5f-3d11a8e57438.png">
