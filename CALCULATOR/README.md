@@ -15,6 +15,5 @@
 </ul>
 
 <h3> ScreenShots </h3> 
-![image](https://github.com/anmol957/web_dev_projects/assets/61040390/6d81eaff-8826-431c-b621-81a831a83637)
 
-
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/a726ef58-f4f8-4b6f-9d6d-3697c4ee5a7d)
