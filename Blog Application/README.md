@@ -16,18 +16,9 @@ To understand the concept of the localstorage, how localstorage persist the data
 
 ## ScreenShot
 
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss1.png?raw=true" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/18f776a5-a52d-4835-8285-8da999e8e3fc)
 
 Click on the `Add New`, UI looks like:
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/16fb7efb-eab7-4102-a140-66fed1b6de32)
 
-
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss2.png?raw=true" />
-
-Click on the `Open Blog`, UI looks like:
-
-
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/ss3.png?raw=true" />
-
-## Live Demo
-
-<img src="https://github.com/khushi-purwar/Web-dev-mini-projects/blob/main/Blog%20Application/Screenshots/demo.gif?raw=true" />
+Click on the `Open Blog'
