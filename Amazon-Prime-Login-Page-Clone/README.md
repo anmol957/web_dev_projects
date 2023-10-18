@@ -8,8 +8,8 @@ This a simple project where i created a clone of amazon prime login page using o
 <li>CSS</li>
 </ul>
 <h3>How to run the project</h3><br>
-Running the project is easy.The user only have to scroll up and down .<br>
-Link for the website-https://yellowberard.github.io/Amazon-Prime-Video-login-clone/index.html
+Running the project is easy.The user only have to scroll up and down
+
 Here Are Some Pictures:-
 
 ![image](https://github.com/anmol957/web_dev_projects/assets/61040390/79e7529b-f6b4-4cb0-a59a-e45853276ef6)
