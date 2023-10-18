@@ -8,23 +8,10 @@ The Text Analyzer analyze the text entered by the user. After clicking on the pr
 * HTML
 * CSS
 
-### How to setup Project
-
-- Download or clone the repository
-`
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-`
-
-- Go to the Web-dev-mini-projects directory by running the command ` cd Web-dev-mini-projects ` in the terminal
-- Run the index.html file
-- Start typing your text!
-
 ## ScreenShot
 
 Starting Of UI
-
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Text%20Analyzer/SS1.png"/>
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/0d7f8dc4-9ccf-4a53-897f-9db0acbfc8af)
 
 After Writing Text
-
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Text%20Analyzer/SS2.png" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/0e811e99-4b5d-47a2-8300-01440464deb1)
