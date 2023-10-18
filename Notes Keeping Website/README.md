@@ -9,16 +9,3 @@
 - CSS
 - JAVASCRIPT
 
-
-
-### Steps to use: 
-
-- Download or clone the repositorY
-`
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-`
-
-- Go to the directory
-- Run the index.html file
-- Start writing!
-
