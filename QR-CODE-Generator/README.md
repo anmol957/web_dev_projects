@@ -15,19 +15,6 @@ A simple web application which will generate a QR Code.
 
 Visit Website: https://goqr.me/api/
 
-## How to use Project
-
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-
-
 ## Screenshots
 
 <img src="./Screenshots/ss1.png" />
