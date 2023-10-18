@@ -13,19 +13,6 @@
     <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Result is here!!!
 
 <h3> Screenshot </h3>
 
@@ -33,7 +20,7 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 
 <h3> Demo </h3>
+![Uploading image.png…]()
 
-<a href="https://sonamgupta136.github.io/sonamgupta136.io/">Demo</a>
 
 <br>
