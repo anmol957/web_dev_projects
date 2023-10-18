@@ -11,4 +11,4 @@ The Random Quote Generator randomly displays a quote when a button is clicked by
 https://type.fit/api/quotes
 
 ## ScreenShot
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Quote%20Generator/ss.png" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/c3e65b8b-0f2b-43ca-b64d-f462bdf45f8b)
