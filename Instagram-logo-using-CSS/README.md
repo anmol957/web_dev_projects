@@ -2,7 +2,7 @@
 It is a simple and resonsive Website made using bootstrap.
 
 ## Desktop View
-<img src="image/insta">
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/57135510-39a7-4b0d-ae0e-01efb73e457c)
 
 ## 💻Tech Stack
 <br>
@@ -12,21 +12,3 @@ It is a simple and resonsive Website made using bootstrap.
 
 
 <br>
-
-### How to use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-
-
-<br>
-
-## Coding is fun, So enjoy :) 
