@@ -1,7 +1,8 @@
 # Welcome 🖐 to the Chuck Norris Joke Generator
 It is a simple API integrated joke generator. We can generate jokes by selecting a category of jokes. Hope you people will enjoy reading the jokes.
 
-![Default View](ChuckNorris.png)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/cb6f5786-ce1e-4301-b6fe-18f0dc835d92)
+
 
 
 ## 💻Tech Stack
@@ -13,20 +14,3 @@ It is a simple API integrated joke generator. We can generate jokes by selecting
 
 <br>
 
-### How to use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Click on different categories and read the jokes.
-
-<br>
-
-## Happy Coding!
