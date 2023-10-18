@@ -12,25 +12,6 @@
 <h3>Use  of this Project</h4>
 <p>This project is for practicing HTML, CSS, JAVASCRIPT skils. This is good beginner friendly project to get started with. It changes the background color of the buttons.</p>
 
-#### Steps to Use:
----
-
-- Download or clone the repository
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-- Go to the directory
-- Open terminal 
-- Run 
-```
-cd '.\JAVASCRIPT BUTTON APP\'
-```
-- Then run 
-```
-node app.js
-```
-- Have a look at the webapp.
-
 
 ## Screenshots
 
