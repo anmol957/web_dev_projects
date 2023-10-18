@@ -31,10 +31,6 @@ skills by using CSS layout tools (Grid or Flexbox).
 - HTML
 - CSS
 
-### Live website
-
-- [Visit Live Website](https://mitp7.github.io/Fylo-LandingPage/)
-
 ### How to use
 
 - Clone this repository.
