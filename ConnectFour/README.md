@@ -12,12 +12,6 @@
 
 - JQuery
 
-## How to set-up:
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/ea6b85aa-30d1-49d4-8980-fb9324333477)
 
-- Clone this repo
-
-- Open it in any Text Editor
-
-- Enjoy it !!!
-
-![ConnectFour](https://user-images.githubusercontent.com/68684482/124650666-98456c00-deb7-11eb-80e7-87e999d8ab96.png)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/c3c31422-39d1-48d4-b04d-9eca07068a49)
