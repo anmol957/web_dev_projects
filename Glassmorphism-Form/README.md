@@ -9,22 +9,6 @@ We can add this login form at start of any website as it has a great look.
 * CSS3
 
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-
-
----
-
 ### Demo 
 
 
