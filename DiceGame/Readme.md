@@ -12,19 +12,6 @@ It is a simple Dice Game. We can use this game to toss between two users and dec
 
 <br>
 
-### How to get the game on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Refresh the page again and again to play the game.
 
 <br>
 
