@@ -11,4 +11,4 @@
 </ul>
 
 <h3> Demo </h3>
-![image](https://github.com/anmol957/web_dev_projects/assets/61040390/c897197b-6d0f-4790-a4c0-9083adaefb66)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/36f2c1a4-c202-479e-8654-35a211648e91)
