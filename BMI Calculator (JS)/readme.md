@@ -13,19 +13,7 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start Calculatings!
 
 <h3> Demo </h3>
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/BMI%20Calculator%20(JS)/snap.PNG"/>
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/a909d21d-c193-44bf-a62f-9ac2c630cc31)
+
