@@ -13,20 +13,7 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start Checking!
-
 <h3> Demo </h3>
-<img src = "https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/String%20Palindrome%20Checker/snap.PNG" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/14af7a0c-f2e1-4fbd-b613-f33c5b734f8a)
+
 <br>
