@@ -12,6 +12,6 @@ Generally, Frequently Asked Questions (FAQs) section is made with the help of ac
 
 ## ScreenShot
 
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/FAQ%20Application/ScreenShots/ss1.png" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/1010dfa5-0823-4ea9-b315-5d5a345375ce)
 
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/FAQ%20Application/ScreenShots/ss2.png" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/a0263544-2ad0-4481-8f49-4caac92c41a0)
