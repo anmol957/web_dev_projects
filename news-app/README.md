@@ -14,30 +14,6 @@ I've used the concept of *Async functions* and *react hook usestate* also worked
 
 <br>
 
-
-### How to get the project on your local machine:
-
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Open news-app folder
-- Open the terminal and run 
-```
-npm start
-```
-- The project will be opened in the browser
-
-
-
-<br>
-
 ## Screenshots
 
 ![Demo1](/news-app/public/news.png)
