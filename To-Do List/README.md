@@ -13,20 +13,6 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Add your tasks According to your wish
-
 <h3> ScreenShots </h3> 
 <img width="959" alt="todo" src="https://user-images.githubusercontent.com/64218887/124366708-43afb000-dc6f-11eb-8832-58d90f32ac38.png">
  <br>
