@@ -21,28 +21,3 @@
  ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 
  <hr>
-
-### How to get the clone on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- open the terminal 
-- run the following command to install node modules
-```
-npm install
-```
-- then run the following command to start the server
-```
-node src/app.js
-```
-
-
-## Happy Coding!
-
