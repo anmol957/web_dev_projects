@@ -13,20 +13,7 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start Typing!
-
 <h3> Screenshots </h3>
-<img src = "https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Virtual%20Keyboard/snap.PNG" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/30d6a6f8-5b28-499f-a181-4c61591d1f42)
+
 <br>
