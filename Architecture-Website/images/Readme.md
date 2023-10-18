@@ -3,16 +3,21 @@ It is a simple static Architecture Website Template.
 
 ## Have a look 
 `HomePage`
-![HomePage](images/homepage.png)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/a8a4a33d-8b83-4218-8b18-e04381948f3c)
+
 
 `About`
-![HomePage](images/about.png)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/1d0a3aca-7882-4dda-9459-93050bdbe2f0)
+
 
 `projects`
-![HomePage](images/projects.png)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/532111dc-cc78-45b2-98de-9acd519e131a)
 
-`contact`
-![HomePage](images/contact.png)
+
+`Contact`
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/7ca374d4-d401-44fa-be94-64651fe50335)
+
+
 
 ## 💻Tech Stack
 <br>
@@ -22,21 +27,3 @@ It is a simple static Architecture Website Template.
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
-
-### How to use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Navigate the website
-
-<br>
-
-## Happy Coding!
