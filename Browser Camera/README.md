@@ -9,15 +9,8 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/15a402d0-99ad-46df-92a8-661871c7f3c1)
 
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
 
 - Go to the 'Browser Camera' directory
 - Run the index.html file
