@@ -2,10 +2,13 @@
 It is a simple and resonsive Website made using bootstrap.
 
 ## Desktop View
-![Default View](Neon-Light\image\ss1.png)
-![Default View](Neon-Light\image\ss2.png)
-![Default View](Neon-Light\image\ss3.png)
-![Default View](Neon-Light\image\ss4.png)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/641305b0-50e8-4298-a445-aa7bf8661e63)
+
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/23b71cfc-3fb1-4259-b3ad-b37d3f59f60c)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/117034ff-056d-49a5-b794-90e0428ce876)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/369b2893-4dfe-4b16-bfc8-c14189625227)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/cd3d236b-fe47-458f-b930-4217f2cd149a)
+
 
 
 ## 💻Tech Stack
@@ -17,20 +20,5 @@ It is a simple and resonsive Website made using bootstrap.
 
 <br>
 
-### How to use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-
-
-<br>
 
 ## Coding is fun, So enjoy :) 
