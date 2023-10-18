@@ -8,22 +8,6 @@ It is a great game to play as it is with rgb we can just see the rgb and guess t
 * HTML5
 * CSS3
 * JAVASCRIPT
-
-
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start guessing!
-
 ---
 
 ### Screenshots
