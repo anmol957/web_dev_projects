@@ -13,27 +13,9 @@
     <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Result is here!!!
-
-<h3> Screenshot:</h3>
-<img src="https://user-images.githubusercontent.com/66966120/125250300-ec32c500-e2aa-11eb-8a50-31d4cf729d72.png" alt="Screenshot (19)" style="max-width:100%;">
-
 
 <h3> Demo </h3>
 
-<a href="https://sonamgupta136.github.io/Basic-Contact-Form.io/">Demo</a>
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/161855e1-532b-4408-b978-0159640ff08f)
 
-<br>
 
