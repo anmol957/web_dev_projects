@@ -8,24 +8,11 @@ This website contains frontend for Mygym website, and technologies used are
 
 <br>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-
 ## Output
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/2e4f0baa-2e6f-4eaa-9625-cb77e8ad439e)
 
-![output1](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output1.png)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/b882f2b4-1670-4a81-8646-7cd856e40130)
 
-![output2](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output2.png)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/8f75afaa-2f01-4b55-9b4b-5b20cc411d0b)
 
-![output2](https://github.com/jay-2000/Web-dev-mini-projects/blob/gymweb/MyGym%20Website/images/output/output3.png?raw=true)
-
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/68bc520e-e4a8-4edc-9c46-b5d0aa2f650f)
