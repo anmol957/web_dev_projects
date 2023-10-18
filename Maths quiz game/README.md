@@ -11,22 +11,6 @@ This webapp is basically for kids to practice addition.
 
 <br>
 
-### How to get the game on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Check your addition solving capacity.
-
-<br>
-
 ### How to use 
 1. Add and write your ans in the box and click check answer.
 2. Alert will be given if the ans is write or wrong .
