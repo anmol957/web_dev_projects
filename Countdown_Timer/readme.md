@@ -10,19 +10,5 @@
   <li>JavaScript</li>
 </ul>
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-
-
 <h3> Demo </h3>
-<img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Countdown_Timer/snap.PNG"/>
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/c897197b-6d0f-4790-a4c0-9083adaefb66)
