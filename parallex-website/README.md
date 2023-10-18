@@ -11,25 +11,6 @@ This is a basic HTML, CSS, JAVASCRIPT website where images of this website has t
 
 <br>
 
-
-### How to get the project on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Open parallex-website folder
-- Open the terminal and run 
-```
-node app.js
-```
-- Open *localhost:3000* in your browser.
-
 *** 
 ###Remember: 
 If you are using node then you need to reload your server everytime you make changes in your file. Otherwise if you have nodemon installed, you can use nodemon. 
