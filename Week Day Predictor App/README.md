@@ -20,7 +20,7 @@
 
 
 <h3> Demo </h3>
-![Uploading image.png…]()
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/005e326d-f986-4495-bc28-f811a6da2f37)
 
 
 <br>
