@@ -18,6 +18,7 @@ Without even knowing the formula and doing math, you can now calculate Compound 
 <br><br>
 
 <p>
+
 	![image](https://github.com/anmol957/web_dev_projects/assets/61040390/94da1339-1d4e-4402-bf08-b7d80b1d3017)
 
 	<br><br>
