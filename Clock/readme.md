@@ -14,34 +14,20 @@ Analog Clock -> It is a circular faced clock with the numbers one to twelve and 
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-## How to use Project
 
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Click on the Analog Clock image, analog clock will appear.
-- or Click on the Digital Clock image, digital clock will appear.
 
 ## Screenshots
 
 Initially, the UI looks like:
 
-<img src="./Screenshots/ss3.png" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/8089ccf3-9fbe-4d2a-be46-027cfef59445)
 
 After clicking on Analog Clock image, move to analog clock page:
 
-<img src="./Screenshots/ss1.png" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/8207778c-4405-40bb-bebf-585fb4f51e1a)
+
 
 After clicking on Digital Clock image, move to digital clock page:
 
-<img src="./Screenshots/ss2.png" />
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/30faa10e-1d7f-46f8-be36-167acf40e699)
 
-## Live Demo
-
-<img src="./Screenshots/demo.gif" />
