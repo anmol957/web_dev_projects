@@ -12,16 +12,6 @@ It is a simple clone of instagram front page using react.
 
 <br>
 
-### How to get the clone on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
 - Go to the directory
 - open the terminal 
 - run the following command to install node modules
@@ -32,6 +22,3 @@ npm install
 ```
 npm start
 ```
-
-
-## Happy Coding!
