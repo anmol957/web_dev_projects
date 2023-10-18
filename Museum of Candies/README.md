@@ -5,14 +5,7 @@ HTML
 
 CSS
 
+# Output
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/b51f072f-93e4-4cdc-a0d2-dda082c4a408)
 
-Steps to Use:
-Download or clone the repository
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-Go to the directory
-Run the index.html file
-
-Output
-<img src="https://github.com/PaarthAgarwal/Web-dev-mini-projects/blob/main/Museum%20of%20Candies/first.png" >
-
-<img src="https://github.com/PaarthAgarwal/Web-dev-mini-projects/blob/main/Museum%20of%20Candies/second.png" >
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/0d289e97-d439-48f0-878c-75ebdb9ab37c)
