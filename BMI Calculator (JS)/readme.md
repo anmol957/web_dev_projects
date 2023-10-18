@@ -15,5 +15,5 @@
 
 
 <h3> Demo </h3>
-![image](https://github.com/anmol957/web_dev_projects/assets/61040390/a909d21d-c193-44bf-a62f-9ac2c630cc31)
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/1dd01bee-dc57-40bf-b3a4-9407546f3c04)
 
