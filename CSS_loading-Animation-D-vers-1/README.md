@@ -10,26 +10,6 @@
 
 <br>
 
-### How to use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Enter your DOB and find age..
-
-<br>
-
 # Screenshot
+![image](https://github.com/anmol957/web_dev_projects/assets/61040390/ba327c04-bea6-4166-80c1-b2bc5c64f19d)
 
-![screenshot](loading-demo.png)
-
-<br>
-
-## Happy Coding!
